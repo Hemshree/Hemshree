@@ -1,8 +1,8 @@
 ### Hi there, I am Hemshree 👋
 
-[![linkedin badge](https://img.shields.io/badge/linkedin-Hemshree_Madaan-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hemshree-madaan)
-[![twitter badge](https://img.shields.io/badge/twitter-@hemshree_madaan-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/hemshree_madaan)
-[![medium badge](https://img.shields.io/badge/medium-Hemshree_Madaan-0077b5?style=flat-square&logo=medium)](https://medium.com/@hemshree3110)
+[![linkedin badge](https://img.shields.io/badge/Hemshree_Madaan-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/hemshree-madaan)
+[![twitter badge](https://img.shields.io/badge/@hemshree_madaan-30302f?style=flat&logo=twitter)](https://twitter.com/hemshree_madaan)
+[![medium badge](https://img.shields.io/badge/Hemshree_Madaan-30302f?style=flat&logo=medium)](https://medium.com/@hemshree3110)
 
 
 - 🔭 I’m currently working on Flutter and Data Science Projects. 
