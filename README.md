@@ -1,7 +1,7 @@
 ### Hi there, I am Hemshree 👋
 
 [![linkedin badge](https://img.shields.io/badge/Hemshree_Madaan-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/hemshree-madaan)
-[![twitter badge](https://img.shields.io/badge/@hemshree_madaan-30302f?style=flat&logo=twitter)](https://twitter.com/hemshree_madaan)
+[![twitter badge](https://img.shields.io/badge/@hemshree__madaan-30302f?style=flat&logo=twitter)](https://twitter.com/hemshree_madaan)
 [![medium badge](https://img.shields.io/badge/Hemshree_Madaan-30302f?style=flat&logo=medium)](https://medium.com/@hemshree3110)
 
 
