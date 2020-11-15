@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Flutter and Data Science Projects. 
 - 👯 I’m looking to collaborate in Research projects and Hackathons.
 - 💬 Ask me about anything, I'm happy to help! 
-- 📝 Read my blogs: Blogs by [Hemshree Madaan](https://medium.com/@hemshree3110)
+- 📝 Read my blogs: Blogs by [Hemshree Madaan](https://medium.com/@hemshree)
 - 😄 Pronouns: She/Her
 
 [Know more here](https://hemshreemadaan.vercel.app/)
