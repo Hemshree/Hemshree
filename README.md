@@ -3,7 +3,7 @@
 [![linkedin badge](https://img.shields.io/badge/Hemshree_Madaan-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/hemshree-madaan)
 [![twitter badge](https://img.shields.io/badge/@hemshree__madaan-30302f?style=flat&logo=twitter)](https://twitter.com/hemshree_madaan)
 [![medium badge](https://img.shields.io/badge/Hemshree_Madaan-30302f?style=flat&logo=medium)](https://medium.com/@hemshree3110)
-[![gmail badge] (https://img.shields.io/badge/Hemshree_Madaan-30302f?style=flat&logo=gmail)](hemshree3110@gmail.com)
+[![gmail badge] (https://img.shields.io/badge/Hemshree_Madaan-30302f?style=flat&logo=gmail)](mailto: hemshree3110@gmail.com)
 
 
 - 🔭 I’m currently working on Flutter and Data Science Projects. 
