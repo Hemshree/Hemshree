@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Hemshree_Madaan-30302f?style=flat&logo=gmail)](mailto:hemshree3110@gmail.com)
 
 
-- 🔭 I’m currently working on Flutter and Data Science Projects. 
+- 🔭 I'm an undergrad researcher who has always been intrigued by technology. I’m interested in domains like Data Science & ML.
 - 👯 I’m looking to collaborate in Research projects and Hackathons.
 - 💬 Ask me about anything, I'm happy to help! 
 - 📝 Read my blogs: Blogs by [Hemshree Madaan](https://medium.com/@hemshree)
