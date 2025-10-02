@@ -14,7 +14,7 @@
 
 [Know more here](https://hemshreemadaan.vercel.app/)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hemshree&show_icons=true" alt="Hemshree" /> </p>
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hemshree&show_icons=true" alt="Hemshree" /> </p> -->
 
 
 
